@@ -1,5 +1,24 @@
 #include <stdio.h>
 
+/*
+    *-----------------------------------------------------------------
+    *
+    * Insertion Sort in C
+    * Written by Zachary "Xander" Bruce
+    *
+    * To compile and run this program make sure you have a C compiler
+    * installed on your computer, if you do not ensure you find a
+    * compiler, i.e. GCC.
+    *
+    * Once you have a compiler installed (like GCC) use the command
+    * line argument:
+    *
+    *       gcc -o InsertionSort_C InsertionSort.c
+    *
+    *-----------------------------------------------------------------
+*/
+
+
 #define ARRAY_SIZE 10
 
 void printArray(int *arr, int size);

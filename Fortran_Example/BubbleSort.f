@@ -1,6 +1,7 @@
 c****************************************
+c Insertion Sort in Fortran 77
 c Program written by: Zachary "Xander" Bruce
-c This is a FORTRAN77 Program
+c
 c You will have to install a FORTRAN compiler, in my instance I ran on
 c linux I downloaded gfortran with the command:
 c 

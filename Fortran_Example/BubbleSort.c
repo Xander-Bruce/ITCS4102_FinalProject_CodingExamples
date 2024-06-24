@@ -2,15 +2,23 @@
 #include <stdio.h>
 
 /*
-//--------------------------------------------------------------------------------
-//Program Written by: Zachary "Xander" Bruce
-//To Compile this program make sure you have a C compiler installed on you machine
-//Then input this command:
-//
-//  gcc -o BubbleSort BubbleSort.c
-//
-//---------------------------------------------------------------------------------
+    *-----------------------------------------------------------------
+    *
+    * Bubble Sort in C
+    * Written by Zachary "Xander" Bruce
+    *
+    * To compile and run this program make sure you have a C compiler
+    * installed on your computer, if you do not ensure you find a
+    * compiler, i.e. GCC.
+    *
+    * Once you have a compiler installed (like GCC) use the command
+    * line argument:
+    *
+    *       gcc -o BubbleSort_C BubbleSort.c
+    *
+    *-----------------------------------------------------------------
 */
+
 
 #define n 10
 
